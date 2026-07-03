@@ -1,1 +1,0 @@
-The number of words in 'assignment_sample.txt' is: 9
